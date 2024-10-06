@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:5173",
-"LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Programación\\C#\\Tasks\\Repository\\Tasks\\Tasks.Server\\..\\tasks.client",
-"MaxTimeoutInSeconds": "120"
-}
-}
