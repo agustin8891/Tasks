@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "at9GC4rvDfmcO0ROidmENQQ5jk7Pxpnm06eUXOnjrGw=",
+  "Source": "Tasks.Server",
+  "BasePath": "_content/Tasks.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Programación\\C#\\Tasks\\Repository\\Tasks\\tasks.client\\tasks.client.esproj",
+      "Version": 2,
+      "Source": "tasks.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
