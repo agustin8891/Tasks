@@ -4,6 +4,6 @@ tasks.client/node_modules/
 tasks.client/obj/
 
 
-Task.Server/bin/
-Task.Server/obj/
-Task.Server/Tasks.Server.csproj.user
+Tasks.Server/bin/
+Tasks.Server/obj/
+Tasks.Server/Tasks.Server.csproj.user
