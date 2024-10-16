@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Tasks.Server.Models;
 using TaskEntity = Tasks.Server.Models.Task;
 using TaskStatusEntity = Tasks.Server.Models.TaskStatus;
+using User = Tasks.Server.Models.User;
 
 namespace Tasks.Server.Data
 {
@@ -22,5 +23,6 @@ namespace Tasks.Server.Data
 
         public DbSet<TaskEntity> Tasks { get; set; }
         public DbSet<TaskStatusEntity> TaskStatuses { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

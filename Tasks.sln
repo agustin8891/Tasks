@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.Server", "Tasks.Server\Tasks.Server.csproj", "{B0371986-4902-44C2-AAD2-10BA3A69710D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tasks.Server", "Tasks.Server\Tasks.Server.csproj", "{B0371986-4902-44C2-AAD2-10BA3A69710D}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tasks.client", "tasks.client\tasks.client.esproj", "{5B76F0FC-648B-44E1-B648-4047ADD663E3}"
 EndProject
